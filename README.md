@@ -42,12 +42,19 @@ Dataset Description:
 Includes attributes such as:
 
 Movie title
+
 Release date
+
 Genre(s)
+
 Popularity score
+
 Vote average
+
 Vote count
+
 Original language
+
 Poster URL
 
 The dataset is structured in a tabular format and was preprocessed to handle missing values, extract genres, and derive year-based insights.
@@ -131,6 +138,7 @@ Link: https://github.com/Adesh2702/Netflix-Movie-Analysis/blob/main/top5_years_m
 
 📌 How to Run the Project
 pip install pandas numpy matplotlib seaborn
+
 
 Open the Jupyter Notebook and run all cells sequentially.
 
