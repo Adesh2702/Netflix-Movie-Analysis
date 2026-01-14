@@ -4,10 +4,12 @@
 🎥 Netflix Analytics: Movie Trends & Popularity Insights Dashboard
 An interactive Python-based data analysis project designed to explore Netflix movie trends—focusing on genres, popularity, ratings, and release patterns to uncover meaningful insights for data-driven decision-making.
 
+
 2. Short Description / Purpose
 
 The Netflix Movie Data Analysis project is an exploratory data analysis (EDA) solution that examines over 9,800 Netflix movies to identify trends in genres, popularity, ratings, and yearly release patterns.
 This project is intended for data analysts, media researchers, and business stakeholders who want to understand audience preferences and content performance on streaming platforms.
+
 
 3. Tech Stack
 
@@ -26,6 +28,8 @@ The project was built using the following tools and technologies:
 📓 Jupyter Notebook – Interactive development and analysis environment
 
 📁 File Formats – .ipynb, .csv, .png, .md
+
+
 
 4. Data Source
 
@@ -54,6 +58,8 @@ Original language
 Poster URL
 
 The dataset is structured in a tabular format and was preprocessed to handle missing values, extract genres, and derive year-based insights.
+
+
 
 5. Features / Highlights
 • Business Problem
@@ -109,6 +115,8 @@ Audience Analysis: Identifies gaps between popularity and ratings
 Market Trends: Reveals growth patterns in content production over time
 
 Decision Support: Useful for data analysts, OTT strategists, and media researchers
+
+
 
 6. Screenshots / Demos
    
