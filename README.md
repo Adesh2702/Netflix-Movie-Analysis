@@ -118,7 +118,7 @@ Decision Support: Useful for data analysts, OTT strategists, and media researche
 
 
 
-6. Screenshots / Demos
+6. Screenshots links
    
 🔹 Top 10 Most Frequent Genres
 
