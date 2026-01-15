@@ -122,19 +122,19 @@ Decision Support: Useful for data analysts, OTT strategists, and media researche
    
 🔹 Top 10 Most Frequent Genres
 
-![Dashboard preview](Link: https://github.com/Adesh2702/Netflix-Movie-Analysis/blob/main/top_genres_netflix.png.png).
+![Dashboard preview](https://github.com/Adesh2702/Netflix-Movie-Analysis/blob/main/top_genres_netflix.png.png).
 
 🔹 Top 10 Movies by Vote Average
 
-![Dashboard preview](Link: https://github.com/Adesh2702/Netflix-Movie-Analysis/blob/main/top_10_vote_avg_movies.png.png).
+![Dashboard preview](https://github.com/Adesh2702/Netflix-Movie-Analysis/blob/main/top_10_vote_avg_movies.png.png).
 
 🔹 Top 5 Most Popular Movies
 
-![Dashboard preview](Link: https://github.com/Adesh2702/Netflix-Movie-Analysis/blob/main/top5_popular_movies_netflix.png.png).
+![Dashboard preview](https://github.com/Adesh2702/Netflix-Movie-Analysis/blob/main/top5_popular_movies_netflix.png.png).
 
 🔹 Top 5 Years with Most Movies
 
-![Dashboard preview](Link: https://github.com/Adesh2702/Netflix-Movie-Analysis/blob/main/top5_years_most_filmed_movies.png.png).
+![Dashboard preview](https://github.com/Adesh2702/Netflix-Movie-Analysis/blob/main/top5_years_most_filmed_movies.png.png).
 
 📌 How to Run the Project
 pip install pandas numpy matplotlib seaborn
